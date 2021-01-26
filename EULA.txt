@@ -1,3 +1,4 @@
+eula=true
 End-User License Agreement (EULA) of Crafty Controller
 This End-User License Agreement ("EULA") is a legal agreement between you and Rent My Datacenter
 

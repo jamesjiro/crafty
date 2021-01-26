@@ -1,3 +1,6 @@
+# ignore minecraft-servers and db
+docker/
+
 #ignore virtual environment
 /venv/
 .venv

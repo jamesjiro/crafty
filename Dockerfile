@@ -2,7 +2,7 @@ FROM arm64v8/ubuntu:20.04
 
 RUN apt-get update \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y \
-    default-jre \
+    openjdk-16-jre-headless \
     python3 \
     python3-dev \
     python3-pip \
